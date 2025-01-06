@@ -1,2 +1,8 @@
 # CST_ASSIGNMENT-2
 Code for Disk Algorithm
+Group Member
+LIM  YI JIE         22304136 
+LOW  YVONNE         22305530 
+JOANNE LOI JIN XU   22303573 
+CHIN YING LING      22301204 
+
